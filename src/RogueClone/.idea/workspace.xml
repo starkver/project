@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b48473b3-25a5-4dbc-af09-cb05f1bd02e0" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/rogue/data/SaveManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/rogue/domain/Corridor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/rogue/domain/Direction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/rogue/domain/GameSession.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/rogue/domain/Level.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/rogue/domain/Position.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/rogue/domain/Room.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/rogue/domain/RoomType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/rogue/domain/combat/Buff.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/rogue/domain/combat/CombatResolver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/rogue/domain/entities/Character.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/rogue/domain/entities/Enemy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/rogue/domain/entities/EnemyType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/rogue/domain/entities/Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/rogue/domain/generation/DungeonGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/rogue/domain/generation/PathFinder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/rogue/domain/items/Consumable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/rogue/domain/items/Food.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/rogue/domain/items/Item.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/rogue/domain/items/ItemType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/rogue/domain/items/Potion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/rogue/domain/items/Scroll.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/rogue/domain/items/Treasure.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/rogue/domain/items/Weapon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/rogue/presentation/GameView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/rogue/presentation/MenuView.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="GradleScriptDefinitionsStorage" workingDir="$PROJECT_DIR$" gradleHome="C:\Users\Laptop\.gradle\wrapper\dists\gradle-8.14-bin\38aieal9i53h9rfe7vjup95b9\gradle-8.14" javaHome="C:\Users\Laptop\.jdks\temurin-18.0.2.1" gradleVersion="8.14" />
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 3
+}]]></component>
+  <component name="ProjectId" id="3Bv3AH9STWXM1Iex0j0HxpKr9tI" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "develop",
+    "kotlin-language-version-configured": "true",
+    "onboarding.tips.debug.path": "C:/Users/Laptop/Desktop/school21/jv/AP1_Jv_P01.ID_1364934-Team_TL_starkver.9cd4c7af_b1d1_4620-1/src/RogueClone/src/main/java/org/example/Main.java"
+  }
+}]]></component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b48473b3-25a5-4dbc-af09-cb05f1bd02e0" name="Changes" comment="" />
+      <created>1775355578716</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1775355578716</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/Main.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
